@@ -24,8 +24,8 @@ Discord
 🛠️ Como Executar o Projeto Localmente
 Clone o repositório (se estiver em um):
 
-git clone <URL_DO_SEU_REPOSITORIO>
-cd <NOME_DO_SEU_REPOSITORIO>
+git clone <https://github.com/AlbericoJr/Discord_clone>
+cd <Discord_clone>
 
 Abra o arquivo index.html em seu navegador web preferido. Não é necessário um servidor local para este projeto, pois ele consiste apenas em HTML e CSS.
 
